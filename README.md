@@ -12,11 +12,21 @@
  
 ## Data types
 String: any sequence of characters between DOUBLE quotes
+
 "allison", "purple 967", "hellogoodbye", "4"
+
 Integer: a positive or negative whole number
+
 Float: a positive or negative number (including decimals)
+
 Boolean: a True or False value
+
 *Exercise: given the following variables, determine their datatypes.*
+___ date = 3
+___ month = "August"
+___ learning = True
+___ year = 2021
+____ cost = 9.99
 
 ## Variable Declaration
 variableName = variableValue
